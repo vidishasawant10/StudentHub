@@ -1,4 +1,5 @@
 # Student Hub
+# Introduction to User Experience Project
 For international students, moving to a foreign country and starting over is never easy. Everything in the application is conceptualized and included based on our individual experiences and feedback from those on a similar path. This is how we can support current students and assist them in their education while fostering a sense of community.
 
 # Mission
